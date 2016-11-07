@@ -7,10 +7,10 @@
   },
   "devDependencies": {
     "chai": "^3.2.0",
-    "jscs": "^1.13.1",
+    "jscs": "^3.0.7",
     "jshint": "^2.8.0",
-    "posthtml": "^0.0.2",
-    "mocha": "^2.2.5"
+    "posthtml": "^0.9.1",
+    "mocha": "^3.1.2"
   },
   "scripts": {
     "test": "mocha",
